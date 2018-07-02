@@ -30,5 +30,16 @@ Historias de usuario
 ![](https://i.imgur.com/L5kUbOu.jpg)
 ![](https://i.imgur.com/S59KELH.jpg)
 
+Pantallas de visual studio
+
+![](https://i.imgur.com/YQyjRug.jpg)
+![](https://i.imgur.com/WzUFsEP.jpg)
+![](https://i.imgur.com/osorCsf.jpg)
+
+Pantallas del sistema en web
+
+![](https://i.imgur.com/0NH4kMQ.jpg)
+![](https://i.imgur.com/9g7ZI46.jpg)
+![](https://i.imgur.com/EZeK7ll.jpg)
 
 
